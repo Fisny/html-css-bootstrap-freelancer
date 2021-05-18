@@ -1,0 +1,45 @@
+.color-bg{
+    background-color: #00ff80;
+    height: 400px;
+    width: 100%;
+}
+
+.bottom{
+    margin-bottom: 50px;
+}
+
+.top-img-title{
+    background-color: rgb(134, 134, 255);
+    height: 150px;
+    margin: 50px 0;
+    display: flex;
+}
+
+.top-img-title-inside{
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 50%;
+    background-color: rgb(0, 0, 126);
+}
+
+.row{
+    background-color: brown;
+    height: 100%;
+}
+
+.colonna{
+    border: 2px solid rgb(255, 255, 255);
+    height: 250px;
+}
+
+.contact-me{
+    border: 1px solid black;
+    height: 500px;
+}
+
+footer{
+    background-color: rgb(39, 39, 39);
+    height: 300px;
+
+}
